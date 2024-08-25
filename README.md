@@ -36,7 +36,7 @@ For penetration testers, password variation is a critical aspect of testing the 
    - Open a terminal or command prompt.
    - Navigate to the directory containing the script.
    - Execute the script using `python <script_name>.py`.
-   - Example: `python password_generator.py`.
+   - Example: `python password.py`.
 
 4. **Input Base Words**: When prompted, enter the base words separated by spaces. These words will be used as the foundation for generating password variations.
 
