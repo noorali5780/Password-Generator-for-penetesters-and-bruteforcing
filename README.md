@@ -64,7 +64,7 @@ Passwords successfully saved to 'C:\\Users\\Jinx\\Documents\\passwords.txt'.
 
 ## Contact
 
-For any issues, suggestions, or contributions, please contact **SADIKI NA** at [Your Email/Contact Information].
+For any issues, suggestions, or contributions, please contact **SADIKI NA** at [noorali5780@gmail.com].
 
 ---
 
